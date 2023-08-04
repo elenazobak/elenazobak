@@ -1,14 +1,10 @@
-
-
 ## Connect with me:
-[<img align="left" alt="elenazobak.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Elena | LinkedIn" width="22px" src="https://raw.githubusercontent.com/johan/svg-cleanups/master/logos/linkedin.svg" />][linkedin]
-[<img align="left" alt="elenazobak | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />][instagram]
 
-[website]: https://elenazobak.com
-[linkedin]: https://linkedin.com/in/your_linkedin_username
-[instagram]: https://instagram.com/elenazobak
+[<img align="left" alt="elenazobak.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://elenazobak.com)
+[<img align="left" alt="Elena | LinkedIn" width="22px" src="https://raw.githubusercontent.com/johan/svg-cleanups/master/logos/linkedin.svg" />](https://linkedin.com/in/your_linkedin_username)
+[<img align="left" alt="elenazobak | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />](https://instagram.com/elenazobak)
 
+<br />
 <br />
 
 ## Languages and Tools:
@@ -22,5 +18,5 @@
 <br />
 
 ## Employment:
-- iOS Developer at Striv3 from 2023 - Present
-
+- Current Position at XYZ Company (2023 - Present)
+- Previous Position at ABC Company (2022 - 2023)
