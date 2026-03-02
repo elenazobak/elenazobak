@@ -1,22 +1,31 @@
-## Connect with me:
+# Elena Zobak
 
-[<img align="left" alt="elenazobak.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://elenazobak.com)
-[<img align="left" alt="Elena | LinkedIn" width="22px" src="https://raw.githubusercontent.com/johan/svg-cleanups/master/logos/linkedin.svg" />](https://linkedin.com/in/your_linkedin_username)
-[<img align="left" alt="elenazobak | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />](https://instagram.com/elenazobak)
+iOS developer and creative technologist with 15 years across design, QA, video production, and technical operations. I build and ship apps solo — from idea to App Store.
 
-<br />
-<br />
+Trilingual: English · Hebrew · Russian  
+Based in the US · [Portfolio](https://elenamp4.com) · [LinkedIn](https://www.linkedin.com/in/elenazobak/)
 
-## Languages and Tools:
-<img align="left" alt="Swift" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg"/>
-<img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"/>
-<img align="left" alt="Node.js" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"/>
-<img align="left" alt="Firebase" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg"/>
-<img align="left" alt="NoSQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/NoSQL_Logo.png"/>
+---
 
-<br />
-<br />
+## Shipped Apps
 
-## Employment:
-- Current Position at XYZ Company (2023 - Present)
-- Previous Position at ABC Company (2022 - 2023)
+### [Hiola](https://apps.apple.com/app/hiola-chat-in-any-language/id6740637943) — Real-time multilingual chat
+Everyone writes in their own language and reads in theirs. AI translation happens automatically — no buttons, no friction.
+`Swift` `SwiftUI` `Firebase` `Claude AI` `FCM`
+
+### [Yalla Ivrit](https://apps.apple.com/il/app/yalla-ivrit/id6759205917) — Hebrew learning for immigrant kids
+Story-driven, anxiety-informed. 30 lessons · 315 vocabulary words · 13 activity types · fully offline.
+`Swift` `SwiftUI` `StoreKit 2` `Speech Recognition`
+
+### [NumWix](https://apps.apple.com/us/app/numwix/id6448761871) — iOS logic game
+Crack the number code. Clean puzzle mechanics, zero fluff.
+`Swift` `UIKit`
+
+---
+
+## Tech Stack
+
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=flat&logo=swift&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
