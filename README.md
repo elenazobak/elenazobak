@@ -5,7 +5,7 @@ iOS developer and creative technologist with 15 years across design, QA, video p
 
 
 Trilingual: English · Hebrew · Russian  
-Based in the US · [Portfolio](https://elenamp4.com) · [LinkedIn](https://www.linkedin.com/in/elenazobak/)
+Based in the US · [Website](https://elenazobak.github.io) · [Portfolio](https://elenamp4.com) · [LinkedIn](https://www.linkedin.com/in/elenazobak/)
 
 
 ---
