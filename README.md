@@ -1,7 +1,7 @@
 # Elena Zobak
 
 
-iOS developer and creative technologist with 15 years across design, QA, video production, and technical operations. I build and ship apps solo — from idea to App Store.
+Technical operations and customer onboarding, with a builder's instinct. 15 years across QA, design, video production, and software development. 3 apps on the App Store. 500+ users onboarded onto SaaS platforms.
 
 
 Trilingual: English · Hebrew · Russian  
