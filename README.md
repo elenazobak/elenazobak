@@ -1,7 +1,7 @@
 # Elena Zobak
 
 
-Technical operations and customer onboarding, with a builder's instinct. 15 years across QA, design, video production, and software development. 3 apps on the App Store. 500+ users onboarded onto SaaS platforms.
+15 years across technical operations, QA, design, video production, and software development.
 
 
 Trilingual: English · Hebrew · Russian  
