@@ -1,11 +1,12 @@
 # Elena Zobak
 
 
-15 years across technical operations, QA, design, video production, and software development.
+Creative technologist. Technical operations and onboarding. Background in animation, video, and QA. Technical person who actually
+  talks to customers. Also building apps.
 
-
-Trilingual: English · Hebrew · Russian  
+  
 Based in the US · [Website](https://elenazobak.github.io) · [Portfolio](https://elenamp4.com) · [LinkedIn](https://www.linkedin.com/in/elenazobak/)
+En · He · Ru
 
 
 ---
