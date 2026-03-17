@@ -1,8 +1,7 @@
 # Elena Zobak
 
 
-Creative technologist. Technical operations and onboarding. Background in animation, video, and QA. Technical person who actually
-  talks to customers. Also building apps.
+Creative technologist. Building things
 
   
 Based in the US · [Website](https://elenazobak.github.io) · [Portfolio](https://elenamp4.com) · [LinkedIn](https://www.linkedin.com/in/elenazobak/)
