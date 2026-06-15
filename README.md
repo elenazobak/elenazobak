@@ -6,8 +6,6 @@ Creative technologist. Building things
   
 Based in the US · [Website](https://elenazobak.github.io) · [Portfolio](https://elenamp4.com) · [LinkedIn](https://www.linkedin.com/in/elenazobak/)
 
-En · He · Ru
-
 
 ---
 
