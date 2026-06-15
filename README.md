@@ -12,22 +12,22 @@ En · He · Ru
 ---
 
 
-## Shipped Apps
+## Shipped
+
+
+### [Lyki](https://apps.apple.com/us/app/lyki/id6767003148) — Vibe reel maker
+Camera roll in, reels out. On-device composition, color grading, and music mixing — nothing uploaded.
+`Swift` `SwiftUI` `AVFoundation` `PhotoKit`
+
+
+### [TripDeck](https://tripdeck.app) — AI trip planner
+Build your itinerary in minutes. Community hub for trip-by-trip planning.
+`Web App` `Firebase` `Claude AI`
 
 
 ### [Hiola](https://apps.apple.com/us/app/hiola-chat-in-any-language/id6759498003) — Real-time multilingual chat
 Everyone writes in their own language and reads in theirs. AI translation happens automatically — no buttons, no friction.
 `Swift` `SwiftUI` `Firebase` `Claude AI` `FCM`
-
-
-### [Yalla Ivrit](https://apps.apple.com/il/app/yalla-ivrit/id6759205917) — Hebrew learning for immigrant kids
-Story-driven, anxiety-informed. 30 lessons · 315 vocabulary words · 13 activity types · fully offline.
-`Swift` `SwiftUI` `StoreKit 2` `Speech Recognition`
-
-
-### [NumWix](https://apps.apple.com/us/app/numwix/id6448761871) — iOS logic game
-Crack the number code. Clean puzzle mechanics, zero fluff.
-`Swift` `UIKit`
 
 
 ---
@@ -40,4 +40,3 @@ Crack the number code. Clean puzzle mechanics, zero fluff.
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=flat&logo=swift&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-
