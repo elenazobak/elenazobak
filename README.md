@@ -13,8 +13,8 @@ Based in the US · [Website](https://elenazobak.github.io) · [Portfolio](https:
 ## Shipped
 
 
-### [Lyki](https://apps.apple.com/us/app/lyki/id6767003148) — Vibe reel maker
-Camera roll in, reels out. On-device composition, color grading, and music mixing — nothing uploaded.
+### [Rilu](https://apps.apple.com/us/app/rilu-reel-maker/id6767003148) — Reel Maker
+Drop clips, tap the beat, and Rilu turns your rhythm into a reel worth posting.
 `Swift` `SwiftUI` `AVFoundation` `PhotoKit`
 
 
